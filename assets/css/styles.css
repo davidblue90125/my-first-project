@@ -1,4 +1,7 @@
-body{
-    background-color:rgb(192, 182, 182);
-    background-image:url("../images/01-02-02_background-img.jpg");
+body {
+  background-color: rgb(192, 182, 182);
+  background-image: url("../images/01-02-02_background-img.jpg");
+}
+h2 {
+  color: orangered;
 }
